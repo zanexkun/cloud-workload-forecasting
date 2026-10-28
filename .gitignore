@@ -1,0 +1,10 @@
+*.egg-info/
+.venv/
+.pytest_cache/
+__pycache__/
+.ipynb_checkpoints/
+.idea/
+data-v1.tar.gz
+challenge_data/*.gz
+challenge_data/DATA_CARD.md
+challenge_data/SHA256SUMS
